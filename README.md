@@ -27,7 +27,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sethupathy-rajan/" target="_blank">
+  <a href="https://www.linkedin.com/in/praveen-kumar-tv/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
   <a href="https://leetcode.com/praveenkumartv/" target="_blank">
@@ -40,7 +40,7 @@
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/praveenkuartv?theme=unicorn&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/praveenkumartv?theme=unicorn&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
