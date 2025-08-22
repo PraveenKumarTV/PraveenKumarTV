@@ -17,7 +17,7 @@
 
 ### 💡 About Me
 
-- 📫 Reach me at: **praveenkumartv2006@gmail.com**
+- 📫 Reach me at: **praveentvtce@gmail.com**
 - 🎯 Taking code apart so I can put it back cooler — with flair
 - 🧠 Living in the intersection of logic, latte, and late nights
 - ⚡ I use Kali Linux btw 🐉
