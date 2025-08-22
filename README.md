@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethupathyRajan&layout=compact&theme=tokyonight&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarTV&layout=compact&theme=tokyonight&langs_count=6" height="150" />
 </div>
 
 ---
