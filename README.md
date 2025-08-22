@@ -66,7 +66,7 @@
 ---
 
 ### 🐍 GitHub Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/PraveenKumarTV/PraveenKumarTV/output/snake.svg" alt="Contribution Snake Animation" />
 </p>
+
