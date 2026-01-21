@@ -22,8 +22,6 @@
 - 🧠 Living in the intersection of logic, latte, and late nights
 - ⚡ I use Kali Linux btw 🐉
 
----
-
 
 
 <!-- <p align="center">
