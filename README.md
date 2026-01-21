@@ -26,9 +26,9 @@
 
 ### 🧠 LeetCode Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/praveenkumartv766?theme=unicorn&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-</p>
+</p> -->
 
 ---
 
