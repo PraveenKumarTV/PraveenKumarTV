@@ -74,6 +74,16 @@ const praveen = {
 
 ---
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" width="220" alt="Iron Man" />
+  <br/>
+  <sub><i>"Sometimes you gotta run before you can walk."</i></sub>
+</p>
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="center">
